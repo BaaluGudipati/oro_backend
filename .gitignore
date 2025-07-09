@@ -17,16 +17,6 @@ Thumbs.db
 docker-compose.yml
 **/mongo-data/
 *.local.yml
+Dockerfile
 
-# Editor settings
-.vscode/
-.idea/
 
-# Optional: test coverage / builds
-coverage/
-dist/
-build/
-
-# Swap or temp files
-*.swp
-*.tmp
