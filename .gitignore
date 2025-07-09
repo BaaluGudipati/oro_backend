@@ -14,9 +14,9 @@ yarn-error.log*
 Thumbs.db
 
 # Docker files to ignore
+Dockerfile
 docker-compose.yml
 **/mongo-data/
 *.local.yml
-Dockerfile
 
 
