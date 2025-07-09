@@ -1,0 +1,32 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific system files
+.DS_Store
+Thumbs.db
+
+# Docker files to ignore
+docker-compose.yml
+**/mongo-data/
+*.local.yml
+
+# Editor settings
+.vscode/
+.idea/
+
+# Optional: test coverage / builds
+coverage/
+dist/
+build/
+
+# Swap or temp files
+*.swp
+*.tmp
